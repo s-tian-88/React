@@ -12,3 +12,5 @@
 ## 2. Одностроничные приложения
 1. [Composition](https://github.com/s-tian-88/React/blob/main/data/2.1-react_composition.md)
 2. [LifeCycle](https://github.com/s-tian-88/React/blob/main/data/2.2-react_lifecycle.md)
+3. [Higher Order Component](https://github.com/s-tian-88/React/blob/main/data/2.3-react_higher-order-component.md)
+4. [Hooks](https://github.com/s-tian-88/React/blob/main/data/2.4-react_hooks.md)
